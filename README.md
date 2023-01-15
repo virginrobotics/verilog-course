@@ -1,2 +1,2 @@
-# verilog-course
-All I did for my Verilog class in electronics school
+# verilog-systemverilog-basics
+A collection of reusable modules that I wrote to learn basics and just have fun.
