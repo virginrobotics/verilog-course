@@ -1,0 +1,11 @@
+# example.pcf
+set_io --warn-no-port rst B1
+set_io --warn-no-port rot[0] B5
+set_io --warn-no-port rot[1] B4
+set_io --warn-no-port rot[2] A2
+set_io --warn-no-port rot[3] A1
+set_io --warn-no-port rot[4] C5
+set_io --warn-no-port rot[5] C4
+set_io --warn-no-port rot[6] B3
+set_io --warn-no-port rot[7] C3
+set_io --warn-no-port clk J3
