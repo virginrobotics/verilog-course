@@ -6,7 +6,7 @@ module top #(
 )	(
     /* I/O */
 	input						hwclk,
-	//input						rst_n = 1,
+	//input						rst_n = 1,	// TODO: Add rst button
 	output	reg	[BCD_SIZE-1:0]	bcd_out	
 	);
 	reg	[SIZE-1:0]	counter	= 0;
